@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculate Volume of a room", "Calculate Volume of a room\Calculate Volume of a room.csproj", "{8CB2A41B-164A-467D-9871-94A620950CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCalculations.UnitTests", "RoomCalculations.UnitTests\RoomCalculations.UnitTests.csproj", "{DEA3983F-50E3-4771-BF97-19BC268A2B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB2A41B-164A-467D-9871-94A620950CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB2A41B-164A-467D-9871-94A620950CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB2A41B-164A-467D-9871-94A620950CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB2A41B-164A-467D-9871-94A620950CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA3983F-50E3-4771-BF97-19BC268A2B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA3983F-50E3-4771-BF97-19BC268A2B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA3983F-50E3-4771-BF97-19BC268A2B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA3983F-50E3-4771-BF97-19BC268A2B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A07B7C3-C936-44D8-8EE3-901947F984C8}
+	EndGlobalSection
+EndGlobal
